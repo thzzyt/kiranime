@@ -1,0 +1,378 @@
+{
+	"Sorry, the page you are looking for could not be found.": [
+		null,
+		"Diese Seite wurde nicht gefunden"
+	],
+	"Go Home": [null, "Zurück zur Startseite"],
+	"Comment navigation": [null, ""],
+	"&larr; Older Comments": [null, "Ältere Kommentare"],
+	"Newer Comments &rarr;": [null, "Neue Kommentare"],
+	"Comments are closed.": [null, "Kommentare sind geschlossen"],
+	"Leave a reply": [null, "Antworten"],
+	"logged in": [null, "angemeldet"],
+	"You must be %1$s to post a comment": [null, ""],
+	"Anime added to watch list!": [
+		null,
+		"Anime zur Watchlist hinzugefügt worden!"
+	],
+	"Episode": [null, "Folge"],
+	"Most Popular": [null, "Am beliebtesten"],
+	"Completed Series": [null, "Abgeschlossene Anime"],
+	"Most Favorite": [null, "Am meisten gemocht"],
+	"Top Airing!": [null, "Top Airing"],
+	"Wrong username or password.": [null, "Falscher Nutzername oder Passwort"],
+	"Login successful, redirecting...": [
+		null,
+		"Erfolgreich angemeldet, bitte Warten..."
+	],
+	"Username not allowed!": [null, "Nutzername nicht erlaubt"],
+	"Username or Email already exist!": [
+		null,
+		"Nutzername oder Email existieren bereit"
+	],
+	"Register successful.": [null, "Erfolgreich registriert"],
+	"error uploading image": [null, "Error beim Hochladen des Bildes"],
+	"error set image.": [null, "Error beim einstellen des Bildes"],
+	"Set image success!": [null, "Erfolgreich eingestellt"],
+	"Field cannot be empty!": [null, "Dieses Feld darf nicht leer sein!"],
+	"You're not allowed to do this!": [null, "Du bist nicht befugt dazu!"],
+	"Current password is incorrect!": [null, "Aktuelles Passwort ist falsch"],
+	"Password is not the same!": [null, "Passwort ist nicht dasselbe"],
+	"Info updated!": [null, "Information aktualisiert!"],
+	"Profile": [null, "Profil"],
+	"Continue Watching": [null, "Weiterschauen"],
+	"Watch List": [null, "Watchlist"],
+	"Notification": [null, "Benachrichtigung"],
+	"Anilist Import": [null, "Anilist Import"],
+	"year": [null, "Jahr"],
+	"season": [null, "Staffel"],
+	"Already added!": [null, "Bereits hinzugefügt!"],
+	"Anime has been moved to %1$s": [null, "Anime wurde verschoben nach %1$s"],
+	"Anime removed from watchlist.": [
+		null,
+		"Anime wurde von der Watchlist entfernt"
+	],
+	"Something went wrong.": [null, "Etwas ist schief gelaufen"],
+	"Plan to Watch": [null, "Plane es anzuschauen"],
+	"Watching": [null, "Gerade am Schauen"],
+	"On Hold": [null, "Wird gerade nicht geschaut"],
+	"Completed": [null, "Abgeschlossen"],
+	"Dropped": [null, "Schaue ich nicht mehr"],
+	"Remove": [null, "Entfernen"],
+	"Your comment is awaiting moderation.": [null, "Dein Kommentar wird geprüft"],
+	"%1$s at %2$s": [null, ""],
+	"Upcoming": [null, "Demnächst"],
+	"Airing": [null, "Airing"],
+	"TV": [null, "TV"],
+	"Movie": [null, "Film"],
+	"OVA": [null, "OVA"],
+	"movie": [null, "Film"],
+	"ONA": [null, "ONA"],
+	"Special": [null, "Special"],
+	"My Profile": [null, "Mein Profil"],
+	"Watchlist": [null, "Watchlist"],
+	"Setting": [null, "Einstellungen"],
+	"Advanced Search": [null, "Erweiterte Suche"],
+	"A-Z Anime List": [null, "A-Z Anime Liste"],
+	"Home": [null, "Startseite"],
+	"News": [null, "News"],
+	"Fetch Anime Info": [null, "Anime Informationen abrufen"],
+	"Anime Info": [null, "Anime Information"],
+	"Characters": [null, "Characters"],
+	"Download": [null, "Download"],
+	"spotlight": [null, "spotlight"],
+	"rate": [null, "Bewerten"],
+	"native": [null, "Alternativ"],
+	"synonyms": [null, "Synonym"],
+	"aired": [null, "aired"],
+	"premiered": [null, "Erschienen"],
+	"duration": [null, "Dauer"],
+	"episodes": [null, "Folgen"],
+	"score": [null, "Bewertung"],
+	"trailer": [null, "Trailer"],
+	"featured": [null, "Empfohlen"],
+	"background": [null, "Hintergrund"],
+	"name": [null, "Name"],
+	"Genre": [null, "Genre"],
+	"Anime Attribute": [null, "Anime Merkmale"],
+	"Episode Type": [null, "Folgen Typ"],
+	"Producer": [null, "Produzent"],
+	"Studio": [null, "Studio"],
+	"Licensor": [null, "Lizenziert"],
+	"Anime Type": [null, "Anime Typ"],
+	"Status": [null, "Status"],
+	"Title:": [null, "Titel"],
+	"Today": [null, "Heute"],
+	"Week": [null, "Woche"],
+	"Month": [null, "Monat"],
+	"views": [null, "Aufrufe"],
+	"All rights reserved.": [null, "All rights reserved."],
+	"Join Now": [null, "Trete Bei"],
+	"A-Z LIST": [null, "A-Z Liste"],
+	"Searching anime order by alphabet name A to Z.": [
+		null,
+		"Sortieren nach Alphabet A-Z"
+	],
+	"%1$s does not store any files on our server, we only linked to the media which is hosted on 3rd party services.": [
+		null,
+		""
+	],
+	"Close Menu": [null, "Menü schliessen"],
+	"User Anime list import": [null, "User Anime Liste importieren"],
+	"Your Anilist must be in Public status on your Privacy setting.": [
+		null,
+		"Deine Anilist muss öffentlich sein (Privacy setting)"
+	],
+	"If an anime is available in your Anilist but not available in the site, it will not be imported.": [
+		null,
+		"Wenn ein Anime in deiner AniList vorhanden ist aber nicht auf unserer Seite, so wird dieser Anime nicht importiert"
+	],
+	"All anime from your Anilist will be merged with your current watch list.": [
+		null,
+		"Alle Anime von deiner AniList werden in deine Watchlist importiert"
+	],
+	"This process may take a few minutes to finish, please be patient.": [
+		null,
+		"Dieser Prozess könnte ein paar Minuten andauern"
+	],
+	"Anilist Username": [null, "Anilist Nutzername"],
+	"Your Anilist Username": [null, "Dein Anilist Nutzername"],
+	"Import": [null, "Importieren"],
+	"A-Z List": [null, "A-Z Liste"],
+	"Sort By Letters": [null, "Nach Buchstaben sortieren"],
+	"Continue Watching (history)": [null, "Weiterschauen"],
+	"Homepage": [null, "Startseite"],
+	"User notification": [null, "Nutzer Benachrichtiung"],
+	"Episode %1$s Available NOW!": [null, "Folge %1$s ist jetzt ONLINE!"],
+	"here": [null, "hier"],
+	"Click %1$s to watch it now.": [null, "Klicke hier um es jetzt anzuschauen"],
+	"User Profile Page": [null, "Nutzerprofil Seite"],
+	"Winter": [null, "Winter"],
+	"Spring": [null, "Frühling"],
+	"Summer": [null, "Sommer"],
+	"Fall": [null, "Herbst"],
+	"User Settings": [null, "Nutzer Einstellungen"],
+	"User": [null, "Nutzer"],
+	"User Watch List Page": [null, "Nutzer Warchlist Seite"],
+	"Type": [null, "Typ"],
+	"Share %1$s": [null, "Jetzt Teilen"],
+	"to your friends": [null, "mit deinen Freunden"],
+	"Animes": [null, "Anime"],
+	"Pages:": [null, "Seiten"],
+	"Page": [null, "Seite"],
+	"Watch Now": [null, "Jetzt Anschauen"],
+	"Add to List": [null, "Zur Liste hinzufügen"],
+	"More": [null, "Mehr"],
+	"%1$s is the best site to watch %2$s SUB online, or you can even watch %2$s DUB in HD quality": [
+		null,
+		"%1$s ist mit ABSTAND die Beste Seite um %2$s in Ger Sub oder Ger Dub und in bester Qualität anzuschauen!"
+	],
+	"Share This Anime": [null, "Teile diesen Anime"],
+	"Overview:": [null, "Überblick"],
+	"Recomended For You!": [null, "Für dich Empfohlen"],
+	"to your friends!": [null, "mit deine Freunden"],
+	"Search Anime Here...": [null, "Suche Anime..."],
+	"Top Anime:": [null, "Top Anime"],
+	"View Full Site": [null, "Hier gehts zur gesamten Seite"],
+	"Anime News": [null, "Anime News"],
+	"Published %1$s ago.": [null, "Veröffentlicht vor %1$s"],
+	"Share": [null, "Teilen"],
+	"Episodes": [null, "Folgen"],
+	"Released %1$s ago.": [null, "Veröffentlicht vor %1$s"],
+	"Characters and Voice Actors": [null, "Charaktere und Synchronsprecher"],
+	"Show All": [null, "Alle anzeigen"],
+	"Close": [null, "Schließen"],
+	"More Season": [null, "Mehr Staffeln"],
+	"Downloads": [null, "Downloads"],
+	"Sign in to your Account": [null, "Melde dich in deinem Account an"],
+	"Log Me In": [null, "Melde dich an"],
+	"Don't have an account?": [null, "Du hast noch keine Account?"],
+	"Sign up here": [null, "Hier registrieren"],
+	"Register New Account": [null, "Neuen Account registrieren"],
+	"Sign up": [null, "Registrieren"],
+	"Already have an account?": [null, "Du hast bereits einen Account"],
+	"Log in here": [null, "Hier anmelden"],
+	"Registration is currently disabled by Administrator. If you already have an account": [
+		null,
+		"Registrierung ist aktuell geschlossen. Wenn du bereits einen Account hast"
+	],
+	"View More": [null, "Siehe mehr"],
+	"Trending": [null, "Im Trend"],
+	"Episode %1$s": [null, "Folge %1$s"],
+	"Filter": [null, "Filter"],
+	"Search anime...": [null, "Suche Anime..."],
+	"View all results": [null, "Alle Ergebnisse anzeigen"],
+	"I'm feeling lucky!": [null, "Ich fühle mich glücklich"],
+	"Login": [null, "Anmelden"],
+	"Mark all as read": [null, "Alle als gelesen markieren"],
+	"%s - Episode %d Available NOW!": [null, "%s - Folge %d ist jetzt ONLINE!"],
+	"View all": [null, "Alles ansehen"],
+	"Logout": [null, "Abmelden"],
+	"Please make sure you've entered your TMDB API Key in the setting.": [
+		null,
+		"Sei dir sicher, du hast deinen TMDB API Key eingefügt"
+	],
+	"Anime grabbed!": [null, "Anime grabbed"],
+	"Episode not found!": [null, "Folge nicht gefunden"],
+	"Check your network connection!": [null, "Check dein Internet"],
+	"Something went wrong!": [null, "Etwas ist schief gelaufen"],
+	"Episode info fetched!": [null, "Folgen Info fetched"],
+	"Error grabbing data!": [null, "Error grabbing data!"],
+	"See dev console for more details.": [
+		null,
+		"Siehe die Dev Console für weitere Details"
+	],
+	"TV ID is required!": [null, "TV ID wird benötigt"],
+	"Type is required!": [null, "Typ wird benötigt"],
+	"The episode number is required!": [null, "Folgen Nummer wird benötigt"],
+	"The season number is required!": [null, "Die Staffel wird benötigt"],
+	"Your TMDB API Key is not set!": [
+		null,
+		"Dein TMDB API Key ist nicht eingestellt"
+	],
+	"Please select the anime first!": [null, "Erst den Anime auswählen"],
+	"Created %1$d anime with %2$d fail.": [
+		null,
+		"Created %1$d anime with %2$d fail."
+	],
+	"No anime found!": [null, "Keine Anime gefunden"],
+	"Cannot use season list with TMDB": [
+		null,
+		"Cannot use season list with TMDB"
+	],
+	"%d Anime found.": [null, "%d Anime gefunden"],
+	"Error getting data! Please see console": [
+		null,
+		"Error die Daten zu kriegen! Schau in die Console"
+	],
+	"Report deleted.": [null, "Meldung gelöscht"],
+	"Show less": [null, "Weniger anzeigen"],
+	"Show more": [null, "Mehr anzeigen"],
+	"Loading..": [null, "Laden"],
+	"Register": [null, "Registrieren"],
+	"Register successful!": [null, "Erfolgreich angemeldet!"],
+	"Trying to Login..!": [null, "Versuche anzumelden..."],
+	"Reloading..": [null, "Erneut Laden..."],
+	"Report submitted.": [null, "Danke für die Meldung!"],
+	"Report Problem": [null, "Problem Melden"],
+	"Previous episode": [null, "Vorherige Folge"],
+	"Next episode": [null, "Nächste Folge"],
+	"Add to watchlist": [null, "Zur Watchlist hinzufügen"],
+	"You're watching": [null, "Du schaust dir gerade"],
+	"Episode %d": [null, "Folge %d"],
+	"If current player not working, select other server.": [
+		null,
+		"Falls der Player nicht funktioniert, wechsele den Player"
+	],
+	"SUB": [null, "Ger Sub"],
+	"DUB": [null, "Ger Dub"],
+	"Estimated the next episode will come at": [
+		null,
+		"Die nächste Folge kommt raus am"
+	],
+	"Please explain the problem you found on this episode.": [
+		null,
+		"Erkläre uns bitte was mit dieser Folge nicht stimmt"
+	],
+	"Vote Now!": [null, "Jetzt bewerten!"],
+	"( %d Voted)": [null, "( %d Bewertet)"],
+	"Rate this anime!": [null, "Diesen Anime bewerten!"],
+	"Episode number": [null, "Folgen Nummer"],
+	"Episode Lists": [null, "Folgen Liste"],
+	"Vote success! :D": [null, "Danke für deine Bewertung! :D"],
+	"Watch History": [null, "Verlauf ansehen"],
+	"Continue": [null, "Weiter"],
+	"Delete": [null, "Löschen"],
+	"Ouch, No anime in your history!": [
+		null,
+		"Oh, keine Anime in deinem Verlauf"
+	],
+	"Start watching some anime, and your history will be saved!": [
+		null,
+		"Sobald du anfängst Anime zu schauen, kannst du an der Stelle weiterschauen, an der du aufgehört hast!"
+	],
+	"Ouch, Your browser doesn't support this feature!": [
+		null,
+		"Oh, dein Browser unterstützt diese Funktion nicht"
+	],
+	"Switch to other browser to use history feature!": [
+		null,
+		"Den Browser wechseln um Verlauf Funktion zu benutzen"
+	],
+	"Username": [null, "Nutzername"],
+	"Email": [null, "Email"],
+	"Joined": [null, "Beigetreten"],
+	"Change Password": [null, "Passwort ändern"],
+	"Current Password": [null, "Aktuelles Passwort"],
+	"New Password": [null, "Neues Passwort"],
+	"Confirm new password": [null, "Neues Passwort bestätigen"],
+	"Save": [null, "Speichern"],
+	"Click to upload or drag and drop": [
+		null,
+		"Klick um hochzuladen oder zieh das Bild rein"
+	],
+	"Uploading..": [null, "Wird hochgeladen..."],
+	"Chibi": [null, "Chibi"],
+	"One Piece": [null, "One Piece"],
+	"Dragon Ball": [null, "Dragonball"],
+	"Custom": [null, "Custom"],
+	"Avatar has been changed.": [null, "Avatar hat sich geändert"],
+	"Your current password is incorrect!": [
+		null,
+		"Dein aktuelles Passwort ist nicht korrekt"
+	],
+	"Password not the same!": [null, "Paswort ist nicht das gleiche"],
+	"en": [null, ""],
+	"millisecond:|s,second:|s,minute:|s,hour:|s,day:|s,week:|s,month:|s,year:|s": [
+		null,
+		"Millisekunde:|n,sekunde:|n,minute:|n,Stunde:|en,Tag:|n,Woche:|en,Monat:|en,Jahr:|en"
+	],
+	"Jan:uary|,Feb:ruary|,Mar:ch|,Apr:il|,May,Jun:e|,Jul:y|,Aug:ust|,Sep:tember|t|,Oct:ober|,Nov:ember|,Dec:ember|": [
+		null,
+		"Jan:uar|,Feb:ruar|,Mä:rz|,Apr:il|,Mai,Jun:i|,Jul:i|,Aug:ust|,Sep:tember|t|,Okt:ober|,Nov:ember|,Dez:ember|"
+	],
+	"Sun:day|,Mon:day|,Tue:sday|,Wed:nesday|,Thu:rsday|,Fri:day|,Sat:urday|+weekend": [
+		null,
+		"Sonn:tag|,Mon:tag|,Diens:tag|,Mitt:woch|,Donn:erstag|,Frei:tag|,Sams:tag|+wochenende"
+	],
+	"Anime removed from the watchlist": [
+		null,
+		"Anime aus der Watchlist entfernt"
+	],
+	"Anime added to the watchlist": [null, "Anime zur Watchlist hinzugefügt"],
+	"Error adding anime to watchlist": [
+		null,
+		"Error beim Hinzufügen des Animes zur Watchlist"
+	],
+	"Loading": [null, "Laden"],
+	"Next page": [null, "Nächste Seite"],
+	"No Anime found": [null, "Kein Anime gefunden"],
+	"Previous page": [null, "Letzte Seite"],
+	"Selected %d": [null, "Ausgewählt %d"],
+	"Page %1$d ~ %2$d Results": [null, "Seite %1$d ~ %2$d Ergebnisse"],
+	"Ascending": [null, "A-Z"],
+	"Descending": [null, "Z-A"],
+	"Popular": [null, "Beliebt"],
+	"Favorite": [null, "Favorit"],
+	"Title": [null, "Titel"],
+	"Published": [null, "Veröffentlicht"],
+	"Updated": [null, "Aktualisiert"],
+	"Result for %s": [null, "Ergebnisse für"],
+	"All Anime": [null, "Alle Anime"],
+	"All": [null, "Alle"],
+	"No anime found.": [null, "Kein Anime gefunden"],
+	"Importing..": [null, "Wird importiert..."],
+	"comments title\u0004One comment": [
+		"%1$s comments",
+		"Kommentare",
+		"Ein Kommentar"
+	],
+	"rest api return\u0004Some fields cannot be empty!": [
+		null,
+		"Einige Felder dürfen nicht leer sein!"
+	],
+	"rest api return\u0004Anime is not created or the title is not found.": [
+		null,
+		"Anime wurde noch nicht erstellt oder der Titel wurde nicht gefunden"
+	]
+}
